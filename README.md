@@ -1,6 +1,6 @@
 # eft-external
 
-pasted eft c++ external cheat
+c++ external trainer
 
 ## Project structure
 ![project structure](https://i.imgur.com/xlGVS7w.png)
